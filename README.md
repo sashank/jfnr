@@ -7,13 +7,8 @@
   FNR is a small domain block cipher to encrypt small domain
     objects ( < 128 bits ) like IPv4, MAC, Credit Card numbers etc.
 
-
-  LICENSE -- LGPL (2.1) license copy under which this library is being released
- 
-  Pre-requisites : Install libfnr as shared libraries are needed
-
-  RUN : Import the source code in any editor like IntelliJ or Eclipse
-        Junit test cases provided contains usage and demo applications
+  Important: This project is being mantainted at
+	https://github.com/cisco/jfnr
 
   For more details about libfnr please visit
    http://sashank.github.io/libfnr/
